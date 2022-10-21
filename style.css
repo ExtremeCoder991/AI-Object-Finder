@@ -1,0 +1,46 @@
+body
+{
+background-position: center;
+background-size: cover;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 15px;
+}
+
+canvas
+{
+box-shadow: 5px 5px 5px white;
+border-radius: 10px;
+margin-top: 120px;
+margin-bottom: 180px;
+}
+
+#green
+{
+    border-radius: 15px;
+    font-weight: 700;
+    width: 75px;
+    font-size: medium;
+}
+
+#object_name
+{
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+#orange
+{
+    font-weight: 600;
+}
